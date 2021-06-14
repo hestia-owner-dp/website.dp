@@ -27,7 +27,7 @@ timeline_events:
 chat_groups_title: Join the conversation
 chat_groups:
   - name: Forum
-    link: ‹FORUM-SITE-URL›
+    link: https://forum.personaldata.io/
   - name: Twitter
-    link: https://twitter.com/@‹TWITTER-ACCOUNT-NAME›
+    link: https://twitter.com/datingprivacy
 ---

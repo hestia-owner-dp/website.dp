@@ -1,19 +1,11 @@
-> Template repository, with code and issues common to every new ‹data community› website, meant to be forked to create new websites.
->
-> 🎯 To create a new website based on this template repository, follow the step-by-step guide [«How-to create a new website from WEBSITE.TEMPLATE»](https://github.com/hestiaAI/website.docs/tree/main/website-new) in the [`WEBSITE.DOCS`](https://github.com/hestiaAI/website.docs/) repository.
->
-> 💡 To report issues about this template repository itself, please head to the [WEBSITE.TEMPLATE.factory](https://github.com/hestiaAI/website.template.factory) repository.
+# ‹Dating Privacy› website
 
----
-
-# ‹SITE-TITLE› website
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/‹SITE-UUID›/deploy-status)](https://app.netlify.com/sites/‹SITE-NAME›/deploys) ⟵ `TODO`: update ‹SITE-UUID› and ‹SITE-NAME›
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98d7a43c-3306-4444-b108-6543ace144b6/deploy-status)](https://app.netlify.com/sites/hestialabs-dating-privacy/deploys)
 
 # Access
 
-* [`‹SITE-URL›/{fr,en}/`](https://‹SITE-URL›/en/) ⟵ since public launch;
-* [`‹SITE-NAME›.netlify.app/{fr,en}/`](https://‹SITE-NAME›.netlify.app/en/) ⟵ for development, prior to public launch.
+* [`dating-privacy.hestialabs.org/{fr,en}/`](https://dating-privacy.hestialabs.org/en/) ⟵ since public launch;
+* [`dating-privacy.netlify.app/{fr,en}/`](https://dating-privacy.netlify.app/en/) ⟵ for development, prior to public launch.
 
 # Features
 
