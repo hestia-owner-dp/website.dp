@@ -24,40 +24,40 @@
 
 # NOTE: uncomment following redirect, if you'd like to shadow one
 # language of the website, because translations would not be ready
-#[[redirects]]
-#  from = "/fr/*"
-#  to = "/en/:splat"
-#  status = 302
-#  force = true
+# NOTE: comment following redirect, when french translations will
+# be ready, and remove this comment — while keeping the previous
+# one, which comes from the WEBSITE.TEMPLATE
+[[redirects]]
+  from = "/fr/*"
+  to = "/en/:splat"
+  status = 302
+  force = true
 
-# =================================================================
-# Upon public launch of the website, uncomment following redirects;
-# without uncommenting, the «splash landing» page (index.html) will
-# be served by Netlify Edge handlers when navigating to /
-# =================================================================
-#
-## Overrule the language switching redirect rules coming
-## hereafter, to keep access to /admin/
-#[[redirects]]
-#  from = "/admin/*"
-#  to = "/admin/:splat"
-#  status = 302
-#
+# Overrule the language switching redirect rules coming
+# hereafter, to keep access to /admin/
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/:splat"
+  status = 302
+
 ## Automatic language switching: redirect / ⟶ /fr/, if browser
 ## accepted languages contains `fr`
+# NOTE: uncomment following redirect, when french translations will
+# be ready, and remove this comment — while keeping the previous
+# one, which comes from the WEBSITE.TEMPLATE
 #[[redirects]]
 #  from = "/"
 #  to = "/fr/"
 #  status = 302
 #  conditions = {Language = ["fr"]}
-#
-## Default language, when no language switching redirects applied
-#[[redirects]]
-#  from = "/"
-#  to = "/en/"
-#  status = 302
-#  # NOTE: `force` property is required to shadow the static «splash
-#  # landing» page (index.html), which otherwise takes precedence
-#  force = true    # https://docs.netlify.com/routing/redirects/rewrites-proxies/#shadowing
+
+# Default language, when no language switching redirects applied
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 302
+  # NOTE: `force` property is required to shadow the static «splash
+  # landing» page (index.html), which otherwise takes precedence
+  force = true    # https://docs.netlify.com/routing/redirects/rewrites-proxies/#shadowing
 
 # eof

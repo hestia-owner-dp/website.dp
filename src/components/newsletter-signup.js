@@ -66,9 +66,10 @@ registerTranslateConfig({
  * Usage:
  *
  *     <form name="newsletter-signup" method="POST" data-netlify="true">
- *         <input type="hidden" name="first-name">
- *         <input type="hidden" name="last-name">
- *         <input type="hidden" name="email">
+ *           <input type="hidden" name="first-name">
+ *           <input type="hidden" name="last-name">
+ *           <input type="hidden" name="email">
+ *           <input type="hidden" name="lang" />
  *     </form>
  *
  *     <newsletter-signup

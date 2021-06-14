@@ -10,6 +10,11 @@ inverse: true
   <h1>{% inlineMarkdown paragraph1_title %}</h1>
   <div class="grid-layout-halves with-gutters">
     <div class="grid-cell">
+      <h2>{% inlineMarkdown ethics_title %}</h2>
+      {% markdown ethics_description %}
+      <a href="/{{locale}}/ethics/"><button>{{ethics_link_text}}</button></a>
+    </div>
+    <div class="grid-cell">
       <h2>{% inlineMarkdown community_title %}</h2>
       {% markdown community_description %}
       <a href="/{{locale}}/community/"><button>{{community_link_text}}</button></a>
@@ -25,6 +30,10 @@ inverse: true
       <a href="/{{locale}}/partners/"><button>{{partners_link_text}}</button></a>
     </div>
   </div>
+  <p class="center with-space">
+    <a href="/{{locale}}/act/sar/"><button class="primary big">
+      {{i18n.globals[locale].ask_your_data}}</button></a>
+  </p>
 </section>
 
 {% if news | length %}

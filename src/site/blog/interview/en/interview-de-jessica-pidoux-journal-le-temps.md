@@ -2,10 +2,11 @@
 id: interview-de-jessica-pidoux-journal-le-temps
 title: Jessica Pidoux in «Le Temps»
 date: 2021-02-08T22:43:00.000Z
-image: /assets/media/blog-interview-jessica-pidoux-bw.jpg
+image: /assets/media/jessica-pidoux-bw.jpg
 lead: Jessica Pidoux, l'algorithme de Tinder dans la peau
 post_categories:
-  - news
+  - report
+  - tinder
 post_authors:
   - mpv
 suggested:

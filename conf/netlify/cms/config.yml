@@ -56,6 +56,7 @@ collections:
         - { label: Mission, name: mission, required: false, widget: string, i18n: true }
         - { label: Partners, name: partners, required: false, widget: string, i18n: true }
         - { label: Media, name: media, required: false, widget: string, i18n: true }
+        - { label: Ethics, name: ethics, required: false, widget: string, i18n: true }
         - { label: Community, name: community, required: false, widget: string, i18n: true }
         - { label: Contact, name: contact, required: false, widget: string, i18n: true }
     - label: Newsletter signup text fragments
@@ -124,6 +125,24 @@ collections:
             widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
         - { label: Stories about, name: stories_about, required: true, i18n: true,
             widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - label: SAR Form
+      name: sar-form
+      file: src/site/_data/i18n/assets/sar-form.json
+      i18n: true
+      fields:
+        - { label: Dating app, name: dating_app, required: true, widget: string, i18n: true }
+        - { label: Select placeholder, name: select_placeholder, required: true, widget: string, i18n: true }
+        - { label: Search placeholder, name: search_placeholder, required: true, widget: string, i18n: true }
+        - { label: Recipient, name: recipient, required: true, widget: string, i18n: true }
+        - { label: Subject, name: subject, required: true, widget: string, i18n: true }
+        - { label: Body, name: body, required: true, widget: string, i18n: true }
+        - { label: Body placeholder, name: body_placeholder, required: true, widget: string, i18n: true }
+        - { label: Copy button, name: copy_button, required: true, widget: string, i18n: true }
+        - { label: E-mail button, name: email_button, required: true, widget: string, i18n: true }
+        - { label: Preview of e-mail, name: preview_of_email, required: true, widget: string, i18n: true }
+        - { label: Preview of e-mail to, name: preview_of_email_to, required: true, widget: string, i18n: true }
+        - { label: Explanation, name: explanation, required: true, widget: string, i18n: true }
+        - { label: Parts to fill in, name: to_fill_in, required: true, widget: string, i18n: true }
 - label: ‹Configuration›
   name: configuration
   files:
@@ -138,7 +157,6 @@ collections:
         - { label: Forum URL, name: forum_url, required: true, widget: string }
 - label: Home page
   name: home
-  # Configure i18n for this collection.
   folder: src/site/home
   extension: md
   editor:
@@ -156,6 +174,10 @@ collections:
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
     - { label: "Paragraph 1 title", name: paragraph1_title, required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - { label: "Ethics title", name: ethics_title, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - { label: "Ethics description", name: ethics_description, required: false, widget: markdown, i18n: true }
+    - { label: "Ethics link text", name: ethics_link_text, required: false, widget: string, i18n: true }
     - { label: "Community title", name: community_title, required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
     - { label: "Community description", name: community_description, required: false, widget: markdown, i18n: true }
@@ -264,6 +286,32 @@ collections:
         - {label: Link, name: link, required: false, widget: file }
         - {label: Image, name: image, required: false, widget: image }
 
+- label: Community › Meetup
+  name: community-meetup
+  folder: src/site/community/meetup
+  extension: md
+  editor:
+    preview: false
+  create: false
+  delete: false
+  i18n: true
+  preview_path: /en/community/meetup/
+  fields:
+    - { label: "Browser tab title", name: title, required: false, widget: string, i18n: true }
+    - { label: Lead, name: lead, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
+    - label: Video recordings
+      name: recordings
+      widget: "list"
+      i18n: true
+      summary: '{{fields.title}}'
+      fields:
+        - {label: "Id (link anchor)", name: id, required: false, widget: string, i18n: true }
+        - {label: "Title", name: title, required: false, widget: text }
+        - {label: "Description", name: description, required: false, widget: markdown }
+        - {label: "Video URL", name: videoSrc, required: false, widget: string }
+        - {label: "Video Thumbnail URL", name: videoThumbSrc, required: false, widget: string }
+
 - label: Contact forms
   name: contact_channel
   folder: src/site/contact
@@ -284,6 +332,62 @@ collections:
     - { label: Lead image , name: lead_image, required: false, widget: image, i18n: true }
     - { label: "Lead image caption", name: lead_image_caption, required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
+
+- label: Ethics
+  name: ethics
+  folder: src/site/ethics
+  extension: md
+  editor:
+    preview: false
+
+  create: false
+  delete: false
+  i18n: true
+  preview_path: /en/ethics/
+  fields:
+    - { label: "Browser tab title", name: title, required: false, widget: string, i18n: true }
+    - { label: Lead , name: lead, required: false, widget: markdown, i18n: true }
+    - { label: Lead image , name: lead_image, required: false, widget: image, i18n: true }
+    - { label: "Lead image caption", name: lead_image_caption, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
+    - { label: Body , name: body, required: false, widget: markdown, i18n: true }
+
+- label: Act › SAR
+  name: sar
+  folder: src/site/act/sar
+  extension: md
+  editor:
+    preview: false
+  create: false
+  delete: false
+  i18n: true
+  preview_path: /en/act/sar/
+  fields:
+    - { label: "Browser tab title", name: title, required: false, widget: string, i18n: true }
+    - { label: Lead , name: lead, required: false, widget: markdown, i18n: true }
+    - { label: Lead image , name: lead_image, required: false, widget: image, i18n: true }
+    - { label: "Lead image caption", name: lead_image_caption, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
+    - { label: Body , name: body, required: false, widget: markdown, i18n: true }
+    - { label: "SAR title" , name: sar_title , required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - { label: "SAR subtitle" , name: sar_sub_title , required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+
+- label: Act › Catalog
+  name: catalog
+  folder: src/site/act/catalog
+  extension: md
+  editor:
+    preview: false
+  create: false
+  delete: false
+  i18n: true
+  preview_path: /en/catalog/
+  fields:
+    - { label: "Browser tab title", name: title, required: false, widget: string, i18n: true }
+    - { label: Lead , name: lead, required: false, widget: markdown, i18n: true }
+    - { label: Body , name: body, required: false, widget: markdown, i18n: true }
 
 - label: Legal
   name: legal

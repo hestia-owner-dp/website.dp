@@ -3,7 +3,7 @@ layout: blog
 permalink: /en/blog/index.html
 title: Data stories
 lead: ""
-lead_image: /assets/media/blog-hero-image.jpg
+lead_image: /assets/media/28-sincerely-media-vcf5y2edm6a-unsplash.jpg
 lead_image_caption: Photo by [Sincerely Media](https://unsplash.com/@sincerelymedia)
   on [Unsplash](https://unsplash.com/photos/vcF5y2Edm6A)
 latest_title: Latest posts

@@ -7,7 +7,7 @@ contributors, to save space, without breaking the site preview.
 The files placed here are directly stored in [Netlify's Large
 Media](https://docs.netlify.com/large-media/overview/) infrastructure
 via [Git LFS](https://git-lfs.github.com), and served at URL
-`/assets/large-media/**`.
+[`/assets/large-media/**`](https://dating-privacy.hestialabs.org/assets/large-media/).
 
 ## Motivations
 

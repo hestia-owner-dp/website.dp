@@ -8,6 +8,7 @@ Web Components of our website.
 * `<contact-card img-src="portrait.jpg"> …text… </contact-card>`
 * `<contact-form form-name="contact" lang="en" subject="…text…"></contact-form>`
 * `<newsletter-signup form-name="newsletter-signup" lang="en"></newsletter-signup>`
+* `<sar-form lang="{{locale}}"></sar-form>`
 * `<video-player src="…" img-src="…"> …text… </video-player>`
 
 ## Usage

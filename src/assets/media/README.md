@@ -7,7 +7,7 @@ omitting those file in a checkout would break the site preview.
 The files placed here are directly stored in [Netlify's Large
 Media](https://docs.netlify.com/large-media/overview/) infrastructure
 via [Git LFS](https://git-lfs.github.com), and served at URL
-`/assets/media/**`.
+[`/assets/media/**`](https://dating-privacy.hestialabs.org/assets/media/).
 
 ## Motivations
 

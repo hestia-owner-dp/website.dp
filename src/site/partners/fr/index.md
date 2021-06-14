@@ -4,7 +4,7 @@ inverse: true
 permalink: /fr/partners/index.html
 title: Partners
 lead: "**Partners we trust**"
-lead_image: /assets/media/partners-hero-image.jpg
+lead_image: /assets/media/34-group-of-people-2471124_1280.jpg
 lead_image_caption: Photo de [Tania Van den Berghen](https://pixabay.com/users/taniavdb-54472/)
   sur [Pixabay](https://pixabay.com/photos/group-of-people-human-group-color-2471124/)
 partners:
@@ -63,8 +63,7 @@ partners:
       fourth estate by covering our efforts  of dating app privacy risks and
       better practices.
 ---
-We only collaborate and engage with partners who we trust and who meet
-our ethical chart.
+We only collaborate and engage with partners who we trust and who meet our
+[ethical chart](/fr/ethics/).
 
-They structure and legitimize the project and amplify its results to 
-establish it in the long term.
+They structure and legitimize the Dating Privacy project and amplify its results to establish it in the long term.

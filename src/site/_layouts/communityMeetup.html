@@ -1,0 +1,20 @@
+---
+layout: defaultWithLeadTitle
+---
+<section id="recordings" class="callout alt with-no-space-before">
+  <div class="stack-layout with-gutters">
+    {% for recording in recordings %}
+      <video-player
+          id="{{recording.id}}" class="stack-cell"
+          src="{{recording.videoSrc}}"
+          img-src="{{recording.videoThumbSrc}}">
+        <h3>{{ recording.title }}</h3>
+        {% markdown recording.description %}
+      </video-player>
+    {% endfor %}
+  </div>
+</section>
+
+<script type="module">
+  import '/components/video-player.js';
+</script>
