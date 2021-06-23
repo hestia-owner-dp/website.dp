@@ -11,7 +11,7 @@ post_authors:
   - jp
 suggested:
   - type: editorial
-    editorial: dating-apps-share-your-data
+    post: dating-apps-share-your-data
 ---
 1. On Grindr's profile page a user can describe the «morphology» only as a man according to the given categories in masculin (French: «entretenu, moyen, grand, musclé, mince, trapu»), which is still an explicit indication that the app assumes by design users are gay men.
 

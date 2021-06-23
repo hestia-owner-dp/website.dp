@@ -16,11 +16,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: dating-apps-share-your-data
+    post: dating-apps-share-your-data
   - type: editorial
-    editorial: data-on-grindr-profile
+    post: data-on-grindr-profile
   - type: interview
-    interview: interview-de-jessica-pidoux-journal-le-temps
+    post: interview-de-jessica-pidoux-journal-le-temps
 show_social_sharing: true
 ---
 **What is Dating Privacy?**

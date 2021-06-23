@@ -48,11 +48,11 @@ timeline_events:
 
 
       [Link to the video recording](meetup/#20210212-dp-collective-launch) [Link to the presentation](https://tinyurl.com/20210212datingprivacy)
-chat_groups_title: We are active in online forum and social media to discuss
+conversation_channels_title: We are active in online forum and social media to discuss
   about privacy and online dating. Join the conversation
-chat_groups:
-  - name: Forum
-    link: https://forum.personaldata.io/
-  - name: Twitter
-    link: https://twitter.com/datingprivacy
+conversation_channels:
+  - type: forum_url
+    name: Forum
+  - type: twitter_url
+    name: Twitter
 ---

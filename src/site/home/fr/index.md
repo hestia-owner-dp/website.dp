@@ -43,9 +43,9 @@ partners_link_text: Contact us
 news_title: News and events
 news:
   - type: editorial
-    editorial: data-on-grindr-profile
+    post: data-on-grindr-profile
   - type: editorial
-    editorial: dating-apps-share-your-data
+    post: dating-apps-share-your-data
   - type: interview
-    interview: interview-de-jessica-pidoux-journal-le-temps
+    post: interview-de-jessica-pidoux-journal-le-temps
 ---
