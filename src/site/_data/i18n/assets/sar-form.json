@@ -12,7 +12,8 @@
     "preview_of_email": "Preview of the e-mail",
     "preview_of_email_to": "Preview of the e-mail to",
     "explanation": "You can copy the e-mail fields or open it directly in your e-mail client",
-    "to_fill_in": "The following information needs to be filled in by hand in the e-mail body:"
+    "to_fill_in": "The following information needs to be filled in by hand in the e-mail body:",
+    "mailto_template_name": "MailtoAccess"
   },
   "fr": {
     "body": "Message",
@@ -26,6 +27,7 @@
     "copy_button": "Copier",
     "preview_of_email": "Aperçu de l'e-mail",
     "preview_of_email_to": "Aperçu de l'e-mail à",
-    "to_fill_in": "A compléter dans l'e-mail"
+    "to_fill_in": "A compléter dans l'e-mail",
+    "mailto_template_name": "MailtoSwissAccess"
   }
 }

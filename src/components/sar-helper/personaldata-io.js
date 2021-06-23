@@ -25,6 +25,9 @@ export const templates = {
 const t = templates;
 const {items: i, properties: p} = vocabulary;
 
+export const TEMPLATE_MAILTO_ACCESS = t.MailtoAccess;
+export const TEMPLATE_MAILTO_SWISS_ACCESS = t.MailtoSwissAccess;
+
 export const SPARQL_DATING_APPS_WITH_EMAIL =
 `SELECT ?item ?itemLabel ?mail WHERE {
   ?item ${p.instanceOf} ${i.onlineDatingApplication}.
@@ -71,11 +74,11 @@ export async function fetchDatingApps(){
     return bindingsAsKeyVals(data);
 }
 
-export async function fetchMailTo(item, isSwiss){
+export async function fetchMailTo(item, template){
     const entityId = item.split('/').pop();
-    const template = isSwiss ? t.MailtoSwissAccess : t.MailtoAccess;
-    const mailTo = await expandTemplate(entityId, template,
-                                URL_WIKI_PERSONALDATA_IO);
+    const mailTo = await expandTemplate(entityId,
+        template || t.MailtoAccess,
+        URL_WIKI_PERSONALDATA_IO);
     const url = new URL(mailTo);
     const href = url.href;
     const recipient = url.pathname;

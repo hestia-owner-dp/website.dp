@@ -1,5 +1,5 @@
 import { LitElement, html, css, svg } from 'lit-element';
-import { registerTranslateConfig, use, translate } from "lit-translate";
+import { registerTranslateConfig, use, translate, get } from "lit-translate";
 import { fetchDatingApps, fetchMailTo } from './personaldata-io.js';
 
 const DEFAULT_TRANSLATIONS = {
@@ -14,7 +14,8 @@ const DEFAULT_TRANSLATIONS = {
     "preview_of_email": "Preview of the e-mail",
     "preview_of_email_to": "Preview of the e-mail to",
     "explanation": "You can copy the e-mail fields or open it directly in your e-mail client",
-    "to_fill_in": "The following information needs to be filled in by hand in the e-mail body:"
+    "to_fill_in": "The following information needs to be filled in by hand in the e-mail body:",
+    "mailto_template_name": "MailtoAccess"
 };
 
 const IDS = {
@@ -142,7 +143,9 @@ export class SubjectAccessRequestForm extends LitElement {
 
     async displayEmail(item) {
         if(item){
-            const mailTo = await fetchMailTo(item, false);
+            const template = get("mailto_template_name");
+            console.log(template);
+            const mailTo = await fetchMailTo(item, template);
             this.body = mailTo.body;
             this.recipient = mailTo.recipient;
             this.subject = mailTo.subject;
