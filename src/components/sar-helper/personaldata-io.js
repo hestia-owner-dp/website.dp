@@ -1,8 +1,10 @@
 export const URL_WIKI_PERSONALDATA_IO = 'wiki.personaldata.io';
 export const URL_PERSONALDATA_IO = 'query.personaldata.io/proxy/wdqs/bigdata/namespace/wdq/';
+
+export const ITEM_ONLINE_DATING_APPLICATION = 'pdio:Q5066';
 export const vocabulary = {
     items: {
-        onlineDatingApplication: 'pdio:Q5066',
+        onlineDatingApplication: ITEM_ONLINE_DATING_APPLICATION,
     },
     properties: {
         instanceOf: 'pdiot:P3',
@@ -13,24 +15,24 @@ export const vocabulary = {
     }
 };
 
+export const TEMPLATE_MAILTO_ACCESS = 'MailtoAccess';
+export const TEMPLATE_MAILTO_SWISS_ACCESS = 'MailtoSwissAccess';
+
 // sorry for the dumb enum
 export const templates = {
-    MailtoAccess: 'MailtoAccess',
-    MailtoSwissAccess: 'MailtoSwissAccess',
+    MailtoAccess: TEMPLATE_MAILTO_ACCESS,
+    MailtoSwissAccess: TEMPLATE_MAILTO_SWISS_ACCESS,
     Access: 'Access',
     SwissAccess: 'SwissAccess',
     Mailto: 'Mailto'
 };
 
 const t = templates;
-const {items: i, properties: p} = vocabulary;
+const {properties: p} = vocabulary;
 
-export const TEMPLATE_MAILTO_ACCESS = t.MailtoAccess;
-export const TEMPLATE_MAILTO_SWISS_ACCESS = t.MailtoSwissAccess;
-
-export const SPARQL_DATING_APPS_WITH_EMAIL =
+const sparqlEmailAndItemsOfInstance = (item) =>
 `SELECT ?item ?itemLabel ?mail WHERE {
-  ?item ${p.instanceOf} ${i.onlineDatingApplication}.
+  ?item ${p.instanceOf} ${item}.
   ?item ${p.email} ?mail.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 } `;
@@ -68,9 +70,10 @@ export function bindingsAsKeyVals(result){
     })
 };
 
-export async function fetchDatingApps(){
-    const data = await query(SPARQL_DATING_APPS_WITH_EMAIL,
-        URL_PERSONALDATA_IO);
+export async function fetchAppsOfInstance(item){
+    const sparql =
+          sparqlEmailAndItemsOfInstance(item);
+    const data = await query(sparql, URL_PERSONALDATA_IO);
     return bindingsAsKeyVals(data);
 }
 
