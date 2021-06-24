@@ -49,7 +49,7 @@ function compareItemLabel(appA, appB) {
     return 0;
 }
 
-const unCamelCase = (string) => string.replace(/([a-z])([A-Z][a-z])/g, '$1 $2');
+const unCamelCase = (string) => string.replace(/([a-z])([A-Z])/g, '$1 $2');
 
 export class SubjectAccessRequestForm extends LitElement {
 
@@ -147,7 +147,6 @@ export class SubjectAccessRequestForm extends LitElement {
     async displayEmail(item) {
         if(item){
             const template = get("mailto_template_name");
-            console.log(template);
             const mailTo = await fetchMailTo(item, template);
             this.body = mailTo.body;
             this.recipient = mailTo.recipient;
