@@ -51,6 +51,26 @@ function compareItemLabel(appA, appB) {
 
 const unCamelCase = (string) => string.replace(/([a-z])([A-Z])/g, '$1 $2');
 
+/**
+ * <sar-form› custom element that helps the user
+ * make subject access request by email.
+ *
+ * Attributes:
+ *
+ *   lang (optional): String
+ *     Determines what language configuration will be
+ *     loaded from file /assets/i18n/sar-form.json
+ *
+ *   companyType (optional): String
+ *     Id of a company type in the wikibase of personaldata io.
+ *     Examples:
+ *     - pdio:Q5066: online dating application
+ *     - pdio:Q97: transportation network company
+ *
+ * Sample usage:
+ *
+ *     <sar-form lang="en"></sar-form>
+ */
 export class SubjectAccessRequestForm extends LitElement {
 
     static get styles() {
@@ -107,6 +127,7 @@ export class SubjectAccessRequestForm extends LitElement {
     static get properties() {
         return {
             lang: { type: String },
+            companyType: { type: String },
             apps: { type: Array, attribute: false },
             selectedApp: { type: Object, attribute: false },
             search: { type: String, attribute: false },
@@ -120,23 +141,23 @@ export class SubjectAccessRequestForm extends LitElement {
     constructor() {
         super();
         this.apps = [];
+        this.companyType = this.companyType || ITEM_ONLINE_DATING_APPLICATION;
         this.selectedApp = undefined;
         this.search = '';
         this.recipient = '';
         this.subject = '';
         this.body = '';
         this.partsToFillIn = [];
-
-        this.fetchApps();
     }
 
     firstUpdated() {
         // Load the default language
+        this.fetchApps();
         use(this.lang);
     }
 
     async fetchApps() {
-        const fetched = await fetchAppsOfInstance(ITEM_ONLINE_DATING_APPLICATION);
+        const fetched = await fetchAppsOfInstance(this.companyType);
         const apps = fetched.map(app =>
             Object.assign(app,
                 { displayName: unCamelCase(app.itemLabel) }))
