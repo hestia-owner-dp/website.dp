@@ -27,6 +27,7 @@
     "copy_button": "Copier",
     "preview_of_email": "Aperçu de l'e-mail",
     "preview_of_email_to": "Aperçu de l'e-mail à",
+    "explanation": "Vous pouvez copier les champs de l'email ou l'ouvrir directement dans votre client email.",
     "to_fill_in": "A compléter dans l'e-mail",
     "mailto_template_name": "MailtoAccessFR"
   }
