@@ -125,12 +125,12 @@ collections:
             widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
         - { label: Stories about, name: stories_about, required: true, i18n: true,
             widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
-    - label: SAR Form
+    - label: SAR Form text fragments
       name: sar-form
       file: src/site/_data/i18n/assets/sar-form.json
       i18n: true
       fields:
-        - { label: Dating app, name: dating_app, required: true, widget: string, i18n: true }
+        - { label: App type name, name: app_type_name, required: true, widget: string, i18n: true }
         - { label: Select placeholder, name: select_placeholder, required: true, widget: string, i18n: true }
         - { label: Search placeholder, name: search_placeholder, required: true, widget: string, i18n: true }
         - { label: Recipient, name: recipient, required: true, widget: string, i18n: true }
@@ -143,7 +143,6 @@ collections:
         - { label: Preview of e-mail to, name: preview_of_email_to, required: true, widget: string, i18n: true }
         - { label: Explanation, name: explanation, required: true, widget: string, i18n: true }
         - { label: Parts to fill in, name: to_fill_in, required: true, widget: string, i18n: true }
-        - { label: Name of personaldata.io wikitext template, name: mailto_template_name, required: true, widget: string, i18n: true }
 - label: ‹Configuration›
   name: configuration
   files:
@@ -390,6 +389,9 @@ collections:
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
     - { label: "SAR subtitle" , name: sar_sub_title , required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - { label: Personaldata.io company type, name: company_type, required: true, widget: string,
+        hint: "Online dating application: Q5066"}
+    - { label: Name of personaldata.io wikitext template, name: mailto_template_name, required: true, widget: string, i18n: true }
 
 - label: Act › Catalog
   name: catalog

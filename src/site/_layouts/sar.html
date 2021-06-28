@@ -8,7 +8,9 @@ layout: defaultWithHero
 <section id="sar" class="callout">
   <h1>{{sar_title}}</h1>
   <h2>{% inlineMarkdown sar_sub_title %}</h2>
-  <sar-form lang="{{locale}}"></sar-form>
+  <sar-form lang="{{locale}}"
+            companyType="{{pageData | getLocalizedOrDefault("company_type")}}"
+            mailtoTemplateName="{{mailto_template_name}}"></sar-form>
 </section>
 
 <script type="module">

@@ -7,7 +7,7 @@ import {
 
 const DEFAULT_TRANSLATIONS = {
     "subject": "Subject",
-    "dating_app": "Dating app",
+    "app_type_name": "Dating app",
     "select_placeholder": "Click to choose",
     "email_button": "Open in your e-mail client",
     "body_placeholder": "Choose an app to fill this automatically",
@@ -64,12 +64,12 @@ const unCamelCase = (string) => string.replace(/([a-z])([A-Z])/g, '$1 $2');
  *   companyType (optional): String
  *     Id of a company type in the wikibase of personaldata io.
  *     Examples:
- *     - pdio:Q5066: online dating application
- *     - pdio:Q97: transportation network company
+ *     - Q5066: online dating application
+ *     - Q97: transportation network company
  *
  * Sample usage:
  *
- *     <sar-form lang="en"></sar-form>
+ *     <sar-form companyType="Q5066" lang="en"></sar-form>
  */
 export class SubjectAccessRequestForm extends LitElement {
 
@@ -128,6 +128,7 @@ export class SubjectAccessRequestForm extends LitElement {
         return {
             lang: { type: String },
             companyType: { type: String },
+            mailtoTemplateName: { type: String },
             apps: { type: Array, attribute: false },
             selectedApp: { type: Object, attribute: false },
             search: { type: String, attribute: false },
@@ -142,6 +143,7 @@ export class SubjectAccessRequestForm extends LitElement {
         super();
         this.apps = [];
         this.companyType = this.companyType || ITEM_ONLINE_DATING_APPLICATION;
+        this.mailtoTemplateName = this.mailtoTemplateName || TEMPLATE_MAILTO_ACCESS;
         this.selectedApp = undefined;
         this.search = '';
         this.recipient = '';
@@ -157,7 +159,8 @@ export class SubjectAccessRequestForm extends LitElement {
     }
 
     async fetchApps() {
-        const fetched = await fetchOrgsOfInstance(this.companyType);
+        const typeWithPrefix = `pdio:${this.companyType}`
+        const fetched = await fetchOrgsOfInstance(typeWithPrefix);
         const apps = fetched.map(app =>
             Object.assign(app,
                 { displayName: unCamelCase(app.itemLabel) }))
@@ -167,8 +170,7 @@ export class SubjectAccessRequestForm extends LitElement {
 
     async displayEmail(item) {
         if(item){
-            const template = get("mailto_template_name");
-            const mailTo = await fetchMailTo(item, template);
+            const mailTo = await fetchMailTo(item, this.mailtoTemplateName);
             this.body = mailTo.body;
             this.recipient = mailTo.recipient;
             this.subject = mailTo.subject;
@@ -241,7 +243,7 @@ export class SubjectAccessRequestForm extends LitElement {
         const that = this;
         return html`
           <div class="app-selection"">
-            <label for="${IDS.search}">${translate("dating_app")}</label>
+            <label for="${IDS.search}">${translate("app_type_name")}</label>
             <input placeholder="${translate("search_placeholder")}"
                    list="search-list"
                    id="${IDS.search}"

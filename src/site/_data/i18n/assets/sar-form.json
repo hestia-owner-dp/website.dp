@@ -2,7 +2,7 @@
   "en": {
     "body": "Body",
     "subject": "Subject",
-    "dating_app": "Dating app",
+    "app_type_name": "Dating app",
     "select_placeholder": "Click to choose",
     "email_button": "Open in your e-mail client",
     "body_placeholder": "Choose an app to fill this automatically",
@@ -12,13 +12,12 @@
     "preview_of_email": "Preview of the e-mail",
     "preview_of_email_to": "Preview of the e-mail to",
     "explanation": "You can copy the e-mail fields or open it directly in your e-mail client",
-    "to_fill_in": "The following information needs to be filled in by hand in the e-mail body:",
-    "mailto_template_name": "MailtoAccess"
+    "to_fill_in": "The following information needs to be filled in by hand in the e-mail body:"
   },
   "fr": {
     "body": "Message",
     "subject": "Objet",
-    "dating_app": "Application de rencontre",
+    "app_type_name": "Application de rencontre",
     "select_placeholder": "Cliquer pour choisir",
     "email_button": "Ouvrir dans votre client e-mail",
     "body_placeholder": "Choisir une app pour remplir ce champ automatiquement",
@@ -28,7 +27,6 @@
     "preview_of_email": "Aperçu de l'e-mail",
     "preview_of_email_to": "Aperçu de l'e-mail à",
     "explanation": "Vous pouvez copier les champs de l'email ou l'ouvrir directement dans votre client email.",
-    "to_fill_in": "A compléter dans l'e-mail",
-    "mailto_template_name": "MailtoAccessFR"
+    "to_fill_in": "A compléter dans l'e-mail"
   }
 }
