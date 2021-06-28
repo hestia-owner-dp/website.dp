@@ -70,7 +70,7 @@ export function bindingsAsKeyVals(result){
     })
 };
 
-export async function fetchAppsOfInstance(item){
+export async function fetchOrgsOfInstance(item){
     const sparql =
           sparqlEmailAndItemsOfInstance(item);
     const data = await query(sparql, URL_PERSONALDATA_IO);

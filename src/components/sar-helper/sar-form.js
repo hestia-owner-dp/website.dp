@@ -1,7 +1,7 @@
 import { LitElement, html, css, svg } from 'lit-element';
 import { registerTranslateConfig, use, translate, get } from "lit-translate";
 import {
-    fetchAppsOfInstance, fetchMailTo,
+    fetchOrgsOfInstance, fetchMailTo,
     TEMPLATE_MAILTO_ACCESS, ITEM_ONLINE_DATING_APPLICATION
 } from './personaldata-io.js';
 
@@ -157,7 +157,7 @@ export class SubjectAccessRequestForm extends LitElement {
     }
 
     async fetchApps() {
-        const fetched = await fetchAppsOfInstance(this.companyType);
+        const fetched = await fetchOrgsOfInstance(this.companyType);
         const apps = fetched.map(app =>
             Object.assign(app,
                 { displayName: unCamelCase(app.itemLabel) }))
