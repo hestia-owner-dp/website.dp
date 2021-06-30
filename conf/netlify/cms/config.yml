@@ -184,27 +184,6 @@ collections:
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
     - { label: "Paragraphs title", name: paragraphs_title, required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
-    - { label: "Ethics title", name: ethics_title, required: false, i18n: true,
-        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
-    - { label: "Ethics description", name: ethics_description, required: false, widget: markdown, i18n: true }
-    - { label: "Ethics link text", name: ethics_link_text, required: false, widget: string, i18n: true }
-    - { label: "Community title", name: community_title, required: false, i18n: true,
-        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
-    - { label: "Community description", name: community_description, required: false, widget: markdown, i18n: true }
-    - { label: "Community link text", name: community_link_text, required: false, widget: string, i18n: true }
-    # end of community
-    # mission: remove when migrated to paragraphs
-    - { label: "Mission title", name: mission_title, required: false, i18n: true,
-        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
-    - { label: "Mission description", name: mission_description, required: false, widget: markdown, i18n: true }
-    - { label: "Mission link text", name: mission_link_text, required: false, widget: string, i18n: true }
-    # end of mission
-    # partners: remove when migrated to paragraphs
-    - { label: "Partners title", name: partners_title, required: false, i18n: true,
-        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
-    - { label: "Partners description", name: partners_description, required: false, widget: markdown, i18n: true }
-    - { label: "Partners link text", name: partners_link_text, required: false, widget: string, i18n: true }
-    # end of partners
     - label: "Paragraphs"
       name: "paragraphs"
       widget: "list"
@@ -215,7 +194,7 @@ collections:
         - { label: "Description", name: description, required: false, widget: markdown, i18n: true }
         - { label: "Link text", name: link_text, required: false, widget: string, i18n: true }
         - { label: Link, name: url, required: false, widget: file, i18n: true,
-            hint: 'Write a relative url if you link to another page on this website. (for example "partners", not "/partners")'}
+            hint: 'Write a relative url if you link to another page on this website. (for example "partners/", not "/partners/")'}
         - { label: "Colored button", name: primary_button, required: false, widget: boolean, i18n: true }
 
     - { label: "News title", name: news_title, required: false, i18n: true,
