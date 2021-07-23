@@ -1,6 +1,8 @@
 ---
+conversation_channels_title: We are active in online forum and social media to
+  discuss about privacy and online dating. Join the conversation
+people_title: People
 layout: community
-inverse: true
 permalink: /fr/community/index.html
 title: Community
 lead: "**Communauté** Personal data"
@@ -10,7 +12,6 @@ lead_image_caption: Illustration de [Pascale
 story_title: A short story about us
 story: We are a small group of skilled individuals working to define a new
   relationship with data in dating.
-people_title: People
 people:
   - name: Jessica
     description: "[Jessica Pidoux](https://jessicapidoux.info/), Doctoral Researcher
@@ -26,7 +27,8 @@ people:
       data. [](https://wiki.personaldata.io/wiki/User:Frandrews
       "User:Frandrews")'
   - description: An other member maps the dating app ecosystem in the wiki platform
-      available thanks to our partner [personaldata.io](https://personaldata.io) and delves into dating app patents.
+      available thanks to our partner [personaldata.io](https://personaldata.io)
+      and delves into dating app patents.
   - description: "[](https://jessicapidoux.info/)Another member digs into regulation
       policies and how online dating interacts with collective practices and
       communities."
@@ -48,11 +50,10 @@ timeline_events:
 
 
       [Link to the video recording](meetup/#20210212-dp-collective-launch) [Link to the presentation](https://tinyurl.com/20210212datingprivacy)
-conversation_channels_title: We are active in online forum and social media to discuss
-  about privacy and online dating. Join the conversation
 conversation_channels:
   - type: forum_url
     name: Forum
   - type: twitter_url
     name: Twitter
+inverse: true
 ---

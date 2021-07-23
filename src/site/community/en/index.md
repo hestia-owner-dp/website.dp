@@ -1,22 +1,25 @@
 ---
+conversation_channels_title: We are active in online forum and social media to
+  discuss about privacy and online dating. Join the conversation
+people_title: People
 layout: community
-inverse: true
 permalink: /en/community/index.html
 title: Community
-lead: "Personal data **community**"
+lead: Personal data **community**
 lead_image: /assets/media/dp-community-hero-1588613254750-cf5d89a29b66.jpg
 lead_image_caption: Illustration by [Pascale
   Cerchio](https://www.peoplerise.net/wp-content/uploads/2020/07/ale-cerchio.png)
 story_title: A short story about us
 story: We are a small group of skilled individuals working to define a new
   relationship with data in dating.
-people_title: People
 people:
   - name: Jessica
-    description: "[Jessica Pidoux](https://jessicapidoux.info/), Doctoral Researcher
-      at the Digital Humanities Institute at École Polytechnique Fédérale de
-      Lausanne works on revealing biases in Tinder's secretive matching
-      algorithms."
+    description: >-
+      [Jessica Pidoux](https://jessicapidoux.info/), Post Researcher at the
+      Sciences Po, Centre of European Studies in Paris.
+
+
+      She hold a PhD from École Polytechnique Fédérale in Lausanne where she worked on revealing biases in Tinder's secretive matching algorithms.
     image: /assets/media/jessica-pidoux-bw.jpg
     twitter: https://twitter.com/pidouxina
   - name: Frank
@@ -25,11 +28,14 @@ people:
       Bumble and Tinder having asked for his
       data. [](https://wiki.personaldata.io/wiki/User:Frandrews
       "User:Frandrews")'
-  - description: An other member maps the dating app ecosystem in the wiki platform
-      available thanks to our partner [personaldata.io](https://personaldata.io) and delves into dating app patents.
-  - description: "[](https://jessicapidoux.info/)Another member digs into regulation
+  - description: Marie-Pierre maps the dating app ecosystem in the wiki platform
+      available thanks to our partner [personaldata.io](https://personaldata.io)
+      and delves into dating app patents.
+    name: Marie-Pierre
+  - description: "[](https://jessicapidoux.info/)Judith Herzog digs into regulation
       policies and how online dating interacts with collective practices and
       communities."
+    name: Judith
   - description: A member helps us with  all the legal facets.
 timeline_title: How it started — how it's going
 timeline_events:
@@ -48,11 +54,10 @@ timeline_events:
 
 
       [Link to the video recording](meetup/#20210212-dp-collective-launch) [Link to the presentation](https://tinyurl.com/20210212datingprivacy)
-conversation_channels_title: We are active in online forum and social media to discuss
-  about privacy and online dating. Join the conversation
 conversation_channels:
   - type: forum_url
     name: Forum
   - type: twitter_url
     name: Twitter
+inverse: true
 ---
