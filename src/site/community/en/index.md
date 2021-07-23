@@ -15,8 +15,8 @@ story: We are a small group of skilled individuals working to define a new
 people:
   - name: Jessica
     description: >-
-      [Jessica Pidoux](https://jessicapidoux.info/), Post Researcher at the
-      Sciences Po, Centre of European Studies in Paris.
+      [Jessica Pidoux](https://jessicapidoux.info/), Post Doctoral Researcher at
+      the Sciences Po, Centre of European Studies in Paris.
 
 
       She hold a PhD from École Polytechnique Fédérale in Lausanne where she worked on revealing biases in Tinder's secretive matching algorithms.
