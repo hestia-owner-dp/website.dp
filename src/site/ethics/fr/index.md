@@ -3,26 +3,26 @@ layout: ethics
 inverse: true
 permalink: /fr/ethics/index.html
 title: Ethics
-lead: "**Ethics & Credits**"
+lead: "**Ethique & Credits**"
 lead_image: /assets/media/14-winkler-ttj0cljli6w-unsplash.jpg
 lead_image_caption: Photo de [Markus
   Winkler](https://unsplash.com/@markuswinkler) sur
   [Unsplash](https://unsplash.com/photos/TtJ0CLjLi6w)
 ---
-# Values of the collective and project
+# Valeurs du collectif  et du projet
 
-**Commitment : research and privacy**
+**Engagement : recherche and vie privée**
 
-•	We are committed to develop awareness, tools, methods, and ultimately be able to push better practices as standard in the dating app industry.
+•	Nous nous engageons à développer l'éducation, les outils, les méthodes et en fin de compte à faire en sorte que les meilleures pratiques deviennent la norme dans le secteur des applications de rencontr.
 
-**Transparency**
+**Transparence**
 
-•	Our purposes are clearly communicated, as such as our activities. We are not here to trick anyone, we are here to learn and bring transparency through knowledge.
+•	Nos objectifs sont clairement communiqués ainsi que nos activités. Nous ne sommes pas là pour tromper qui que ce soit, nous sommes là pour apprendre et apporter la transparence par la connaissance.
 
 **Independence**
 
-•	We are a group of citizens and researchers, with no links with the dating app industry, neither actors in data processing.
+•	Nous sommes un groupe de personnes de société civile et de la recherche, sans lien avec l'industrie des applications de rencontres, ni  avec les acteurs du traitement des données.
 
-**Trust and integrity**
+**Confiance et intégrité**
 
-•	We would like to see a restored trust in technologies, through good practices and self-regulation amongst the operators of the different dating app. This starts with us, each of us commits to be trust-worthy, so that the collective can be trusted, and using secured tools.
+•	Nous souhaitons que la confiance dans les technologies soit restaurée, grâce à de bonnes pratiques et à l'autorégulation des plateformes des différentes applications de rencontres. Cela commence par nous: chacun.e de nous s'engage à être digne de confiance pour que le collectif soit digne de confiance et à utiliser des outils sécurisés.
