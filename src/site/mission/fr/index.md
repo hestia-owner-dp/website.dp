@@ -3,7 +3,7 @@ layout: mission
 permalink: /fr/mission/index.html
 inverse: true
 title: Mission
-lead: "**Dating Privacy's journey**"
+lead: "**Voyage à travers Dating Privacy**"
 lead_image: /assets/media/32-mojtaba-mohammadi-yiotsd3flka-unsplash.jpg
 lead_image_caption: Photo de [Mojtaba Mohammadi](https://unsplash.com/@mojitaba)
   sur [Unsplash](https://unsplash.com/photos/yioTsD3fLkA)
