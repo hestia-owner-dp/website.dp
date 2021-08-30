@@ -19,7 +19,7 @@ people:
       the Sciences Po, Centre of European Studies in Paris.
 
 
-      She hold a PhD from École Polytechnique Fédérale in Lausanne where she worked on revealing biases in Tinder's secretive matching algorithms.
+      She hold a PhD from École Polytechnique Fédérale in Lausanne where she worked on revealing biases in dating apps secretive matching algorithms.
     image: /assets/media/jessica-pidoux-bw.jpg
     twitter: https://twitter.com/pidouxina
   - name: Frank
