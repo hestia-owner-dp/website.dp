@@ -5,7 +5,7 @@ people_title: People
 layout: community
 permalink: /en/community/index.html
 title: Community
-lead: Personal data **community**
+lead: Dating Privacy **community**
 lead_image: /assets/media/dp-community-hero-1588613254750-cf5d89a29b66.jpg
 lead_image_caption: Illustration by [Pascale
   Cerchio](https://www.peoplerise.net/wp-content/uploads/2020/07/ale-cerchio.png)
