@@ -33,14 +33,15 @@ paragraphs:
       Notre objectif ultime est de réunir des utilisatrices et d'utilisateurs et des personnes passionnées par la protection de la vie privée pour faire pression en faveur d'un changement de paradigme.
     link_text: Learn more
     url: mission/
-  - title: We connect with many partners
+  - title: Nous sommes en contact avec de nombreux partenaires
     description: >-
-      We are looking to collaborate with journalists, academics, researchers,
-      activists and NGOs in data protection and other related themes.
+      Nous cherchons à collaborer avec des journalistes, des universitaires, des
+      chercheuses et des chercheurs, des activistes et des ONG actives dans  la
+      protection des données et d'autres thèmes connexes.
 
 
-      We push ideas for better user and company practices to control personal data and date safely online. We are particularly interested in raising awareness, as well as building methodological protocols and privacy tools for data protection and literacy.
-    link_text: Contact us
+      Nous défendons des idées de meilleures pratiques pour les utilisatrices et les utilisatrices et pour les entreprises dans le contrôle des données personnelles et pour surfer en toute sécurité en ligne. Nous sommes particulièrement intéressé.es par l'éducation, ainsi que par la construction de protocoles méthodologiques et d'outils de protection de la vie privée et pour la littératie des données.
+    link_text: Contactez-nous
     url: partners/
 layout: home
 permalink: /fr/index.html
