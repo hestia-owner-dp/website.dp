@@ -4,10 +4,10 @@ permalink: /fr/act/catalog/index.html
 title: Data Catalog
 lead: ""
 ---
-## Why a catalog?
+## Qu'est ce qu'un catalogue?
 
-We are constituting a data catalog: we are carefully documenting what type of data each company holds about you.
+Nous constituons un catalogue de données : nous documentons soigneusement le type de données que chaque entreprise détient sur vous.
 
-This will help us build more easily tools and services around this data, in a way that enables participation around this commons. This effort is done together with [other projects in the HestiaLabs ecosystem](https://hestialabs.org/en/projects/). We all benefit from working together on this. 
+Cela nous aidera à construire plus facilement des outils et des services autour de ces données, de manière à permettre la participation autour de ce bien commun. Cet effort est réalisé en collaboration avec [les autres  projects de l'écosystème d'HestiaLabs](https://hestialabs.org/en/projects/). Nous avons  intérêt à travailler ensemble sur ce sujet. 
 
-You can access this catalog [here](https://github.com/hestiaAI/data-catalog).
+Vous pouvez accéder au catalogue [ici](https://github.com/hestiaAI/data-catalog).
