@@ -1,13 +1,13 @@
 ---
 id: info
 layout: contact
-title: Let's talk about anything else
-subject: ""
 form_name: contact-dp-info
+subject: ""
+title: Parlons de tout autre chose.
 lead: |-
-  A problem with a dating app? \
-  Ideas, skills or goodwill to share? \
-  **Let's talk**
+  Un problème avec une application de rencontres ? \
+  Des idées, différentes compétences ou de la bonne volonté à partager ? \
+  **Parlons-en ensemble**
 lead_image: /assets/media/29-aaron-burden-xg8iqmqmitm-unsplash.jpg
 lead_image_caption: Photo de [Aaron Burden](https://unsplash.com/@aaronburden)
   sur [Unsplash](https://unsplash.com/photos/xG8IQMqMITM)

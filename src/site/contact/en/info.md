@@ -1,9 +1,9 @@
 ---
 id: info
 layout: contact
-title: Let's talk about anything else
-subject: ""
 form_name: contact-dp-info
+subject: ""
+title: Let's talk about anything else
 lead: |-
   A problem with a dating app? \
   Ideas, skills or goodwill to share? \
