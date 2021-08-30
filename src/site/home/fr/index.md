@@ -1,39 +1,36 @@
 ---
-layout: home
-permalink: /fr/index.html
 path: home
-title: Dating privacy
-lead: The community of **dating privacy**
-lead_image: /assets/media/104-abstract-bokeh-hearts-real-light-picjumbo-com.jpg
-lead_image_caption: Photo de [Viktor Hanacek](https://picjumbo.com/author/viktorhanacek/)
-  sur [picjumbo](https://picjumbo.com/abstract-bokeh-hearts-real-light/)
-paragraphs_title: We define a new relationship to dating data
 paragraphs:
-  - title: Dating data is sensitive
-    description: We would like to see a restored trust in technologies,
-      through good practices and self-regulation amongst the operators of the
-      different dating app. This starts with us, each of us commits to be
-      trust-worthy, so that the collective can be trusted, and using secured tools.
-    link_text: Our ethical chart
+  - title: Les données de rencontres sont sensibles
+    description: Nous souhaitons que la confiance dans les technologies soit
+      restaurée, grâce à de bonnes pratiques et à l'autorégulation des
+      opérateurs des différentes applications de rencontres. Cela commence par
+      nous, chacun de nous s'engage à être digne de confiance, pour que le
+      collectif soit digne de confiance, et à utiliser des outils sécurisés.
+    link_text: Notre charte éthique
     url: ethics/
-  - title: We are a collective of users
-    description: "Dating Privacy is you and me: dating app users and
-      people keen to understand privacy in relationships formed online. The
-      collective is worried about the way our intimate life is being coded and
-      exposed online. We aim to retake control of personal data on dating apps,
-      understand the privacy problems they create, and work to improve data
-      literacy."
-    link_text: Join us
+  - title: Nous sommes un collectif d'utilisateurs et d'utilisatrices
+    description: "Dating Privacy, c'est vous, c'est nous et c'est moi : des
+      utilisatrices et des utilisateurs d'applications de rencontres et des
+      personnes désireuses de comprendre la vie privée dans les relations
+      formées en ligne. Le collectif s'inquiète de la façon dont notre vie
+      intime est codée et exposée en ligne. Notre objectif est de reprendre le
+      contrôle des données personnelles sur les applications de rencontre, de
+      comprendre les problèmes de confidentialité qu'elles créent et de
+      travailler à l'amélioration de la connaissance des données."
+    link_text: Rejoignez-nous
     url: community/
-  - title: We work to understand what's being done
+  - title: Nous travaillons à comprendre ce qui est fait
     description: >-
-      We want to understand many privacy risks that we, as dating app users, are
-      confronted with when looking for a date online: unwanted ads, discrimination
-      resulting from data, incorrect profiling and predictions, and the possibility
-      of phishing and identity theft by rogue users.
-    
-    
-      Our ultimate goal is to bring together users and privacy enthusiasts to push for a paradigm shift.
+      Nous voulons comprendre les nombreux risques liés au respect de la vie
+      privée auxquels nous sommes confronté.es, en tant qu'utilisatrices et
+      d'utilisateurs d'applications de rencontres, lorsque nous recherchons une
+      rencontre en ligne : publicités indésirables, discrimination résultant des
+      données, profilage et prédictions incorrects et possibilité de hameçonnage
+      et d'usurpation d'identité par des personnes malhonnêtes.
+
+
+      Notre objectif ultime est de réunir des utilisatrices et d'utilisateurs et des personnes passionnées par la protection de la vie privée pour faire pression en faveur d'un changement de paradigme.
     link_text: Learn more
     url: mission/
   - title: We connect with many partners
@@ -45,7 +42,16 @@ paragraphs:
       We push ideas for better user and company practices to control personal data and date safely online. We are particularly interested in raising awareness, as well as building methodological protocols and privacy tools for data protection and literacy.
     link_text: Contact us
     url: partners/
-news_title: News and events
+layout: home
+permalink: /fr/index.html
+title: Dating privacy
+lead: La communauté de **dating privacy**
+lead_image: /assets/media/104-abstract-bokeh-hearts-real-light-picjumbo-com.jpg
+lead_image_caption: Photo de [Viktor
+  Hanacek](https://picjumbo.com/author/viktorhanacek/) sur
+  [picjumbo](https://picjumbo.com/abstract-bokeh-hearts-real-light/)
+paragraphs_title: Nous définissons une nouvelle relation aux données de rencontres
+news_title: Nouvelles et évènements
 news:
   - type: editorial
     post: data-on-grindr-profile
