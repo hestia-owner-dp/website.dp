@@ -12,7 +12,7 @@ lead_image_caption: Photo by [Mojtaba Mohammadi](https://unsplash.com/@mojitaba
 
 ## The problem 
 
-You give sensitive data away without knowing what or why. Dating privacy seeks to clarify that uncertainty to protect your privacy. We want to balance the benefits and disadvantages of sharing your intimate information so you can take control of your exposure online; and at the same time to make dating apps best tailored to user’s interests and not merely for commercial enterprises.
+You give sensitive data away without knowing who, what or why. Dating privacy seeks to clarify that uncertainty to protect your privacy. We want to balance the benefits and disadvantages of sharing your intimate information so you can take control of your exposure online; and at the same time to make dating apps best tailored to user’s interests and not merely for commercial enterprises.
 
 Data helps apps to put users in contact with each other. You meet somebody outside your network and with different characteristics who you didn’t even know you liked. But it also comes with privacy risks: unknown users see a lot of information about your identity, you are only introduced to people who the app considers right for you, you meet people without any guarantees about their real identity, your data is used for ads that are not necessarily relevant to your tastes but help the app earn money.
 
@@ -20,13 +20,13 @@ Data helps apps to put users in contact with each other. You meet somebody outsi
 
 There is not enough visibility and situated knowledge about privacy and data protection on dating apps. A general definition of privacy does not apply to every app type. Plus, when you are dating you are interested in establishing trust with your potential date and also with the app introducing you to other people. We seek to raise awareness about privacy risks, as well as develop the potentialities of having new ethical, fair and collective values for the use of technologies and privacy.
 
-Some users do not know their data is being collected, or for which purposes. 
+* Some users do not know their data is being collected, or for which purposes. 
 
-Some users do not understand why they cannot find somebody on a dating app.
+* Some users do not understand why they cannot find somebody on a dating app.
 
-Some users do not know what privacy means in online dating, where so much sensitive data is exposed.
+* Some users do not know what privacy means in online dating, where so much sensitive data is exposed.
 
-Some users believe data collection only serves good intentions.
+* Some users believe data collection only serves good intentions.
 
 At the same time, every user is giving away intimacy for public exposure without control. Some users are being discriminated against, exposed to undesirable persons, and are victims of abuse by other users: harassment, identity theft, romance scams, and even sexual assault, without the app being able to help you. 
 

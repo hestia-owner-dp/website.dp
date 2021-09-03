@@ -12,25 +12,29 @@ lead_image_caption: Photo de [Mojtaba Mohammadi](https://unsplash.com/@mojitaba)
 
 ## Le  problème 
 
-Vous donnez des données sensibles sans savoir quoi ni pourquoi. Le colelctif Dating privacy cherche à clarifier cette incertitude pour protéger votre vie privée. Nous voulons équilibrer les avantages et les inconvénients du partage de vos informations intimes afin que vous puissiez contrôler votre exposition en ligne ; et en même temps faire en sorte que les applications de rencontre soient mieux adaptées aux intérêts des utilisatrices et utilisateurs et ne servent pas uniquement à des entreprises commerciales.
+Vous donnez des données sensibles sans savoir à qui, quoi ni pourquoi. Le collectif Dating privacy cherche à clarifier cette incertitude pour protéger votre vie privée. Nous voulons équilibrer les avantages et les inconvénients du partage de vos informations intimes afin que vous puissiez contrôler votre visibilité en ligne ; et en même temps faire en sorte que les applications de rencontre soient mieux adaptées aux intérêts des utilisatrices et utilisateurs et ne servent pas uniquement aux entreprises commerciales.
 
 Les données aident les applications à mettre les personnes en contact les unes avec les autres. Vous rencontrez une personne extérieure à votre réseau et présentant des caractéristiques différentes, dont vous ne saviez même pas qu'elle vous plaisait. Mais cela comporte aussi des risques pour la vie privée : des personnes inconnues voient beaucoup d'informations sur votre identité, vous n'êtes présenté.e qu'aux personnes que l'application considère comme appropriées pour vous, vous rencontrez des personnes sans aucune garantie quant à leur identité réelle, vos données sont utilisées pour des publicités qui ne correspondent pas nécessairement à vos goûts mais qui permettent à l'application de gagner de l'argent.
 
-Il n'y a pas assez de visibilié  et de connaissance sur  la vie privée et sur la protection des données sur les applications de rencontres.  Une définition générale de la vie privée ne s'applique pas à tous les types d'applications. De plus, lorsque vous faites des rencontres, vous souhaitez établir une relation de confiance avec votre partenaire potentiel.e et avec l'application qui vous présente d'autres personnes. Nous cherchons à sensibiliser les gens aux risques liés à la vie privée, ainsi qu'à développer les possibilités d'avoir de nouvelles valeurs éthiques, justes et collectives pour l'utilisation des technologies et de la vie privée.
+![](/assets/media/21-karsten-winegeart-60gsdomrfgc-unsplash.orig.jpg)
 
-Certaines personnes ne savent pas que leurs données sont collectées, ni à quelles fins. 
+Il n'y a pas assez de visibilié  et de connaissance sur  la vie privée et sur la protection des données des applications de rencontres.  Une définition générale de la vie privée ne s'applique pas à tous les types d'applications. De plus, lorsque vous faites des rencontres, vous souhaitez établir une relation de confiance avec votre partenaire potentiel.e ainsi qu'avec l'application qui vous présente d'autres personnes. 
 
-Certaines personnes ne comprennent pas pourquoi elles n'arrivent pas trouver quelqu'un sur une application de rencontre.
+Nous cherchons à sensibiliser les gens aux risques liés à la vie privée, ainsi qu'à développer les possibilités d'avoir de nouvelles valeurs éthiques, justes et collectives pour l'utilisation des technologies et de la vie privée.
 
-Certaines personnes ne savent pas ce que signifie la vie privée dans les rencontres en ligne, où tant de données sensibles sont exposées.
+* Certaines personnes ne savent pas que leurs données sont collectées, ni à quelles fins. 
 
-Certaines personnes pensent que la collecte de données ne sert que les bonnes intentions.
+* Certaines personnes ne comprennent pas pourquoi elles n'arrivent pas trouver quelqu'un sur une application de rencontre.
 
-Dans le même temps, chaque personne livre son intimité au public sans contrôle. Des utilisatrices et utilisateurs font l'objet de discriminations, sont exposés à des personnes indésirables et sont victimes d'abus de la part d'autres individus : harcèlement, usurpation d'identité, arnaques à la romance, voire agressions sexuelles, sans que l'application puisse les aider.
+ * Certaines personnes ne savent pas ce que signifie la vie privée dans les rencontres en ligne où tant de données sensibles sont exposées.
+
+ * Certaines personnes pensent que la collecte de données ne sert que les bonnes intentions.
+
+Dans le même temps, chaque personne livre son intimité en ligne sans contrôle. Des utilisatrices et utilisateurs font l'objet de discriminations, sont exposés à des personnes indésirables et sont victimes d'abus de la part d'autres individus : harcèlement, usurpation d'identité, arnaques à la romance, voire agressions sexuelles, sans que l'application puisse les aider.
 
 ## Notre plan 
 
-Dating Privacy vise d'abord à comprendre le fonctionnement des applications de rencontre, en particulier en ce qui concerne la collecte et le traitement des données et les conséquences pour la vie privée des utilisatrices et utilisateurs et les interactions (qui est présenté à qui). Ensuite, leur offrir  un outil leur permettant de visualiser et de comprendre l'écosystème des données des applications de rencontres et leur utilisation personnelle contribuant ainsi à la littératie des données. 
+Le collectif Dating Privacy vise d'abord à comprendre le fonctionnement des applications de rencontres, en particulier en ce qui concerne la collecte et le traitement des données et les conséquences pour la vie privée des utilisatrices et utilisateurs et leurs interactions (qui est présenté à qui). Ensuite, nous souhaitons leur offrir  un outil leur permettant de visualiser et de comprendre l'écosystème des données des applications de rencontres et leur utilisation personnelle contribuant ainsi à la littératie des données. 
 
 Les applications de rencontres ont développé des systèmes de mise en relation qui sont opaques en raison de la propriété intellectuelle. Cette opacité affecte la vie privée et, en définitive, la manière dont les sujets trouvent un partenaire potentiel en ligne. Par conséquent, les utilisateurs n'ont aujourd'hui aucune visibilité sur les données personnelles collectées à partir de leurs comptes, ni sur la manière dont elles sont utilisées pour leur présenter des profils, ou à des fins commerciales comme la publicité.
 
