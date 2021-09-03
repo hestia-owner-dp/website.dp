@@ -20,15 +20,12 @@ Les données aident les applications à mettre les personnes en contact les unes
 
 Il n'y a pas assez de visibilié  et de connaissance sur  la vie privée et sur la protection des données des applications de rencontres.  Une définition générale de la vie privée ne s'applique pas à tous les types d'applications. De plus, lorsque vous faites des rencontres, vous souhaitez établir une relation de confiance avec votre partenaire potentiel.e ainsi qu'avec l'application qui vous présente d'autres personnes. 
 
-Nous cherchons à sensibiliser les gens aux risques liés à la vie privée, ainsi qu'à développer les possibilités d'avoir de nouvelles valeurs éthiques, justes et collectives pour l'utilisation des technologies et de la vie privée.
+Nous cherchons à sensibiliser les gens aux risques liés à la vie privée, ainsi qu'à développer les possibilités d'avoir de nouvelles valeurs éthiques, justes et collectives lors de de'utilisation des technologies et de la vie privée.
 
 * Certaines personnes ne savent pas que leurs données sont collectées, ni à quelles fins. 
-
 * Certaines personnes ne comprennent pas pourquoi elles n'arrivent pas trouver quelqu'un sur une application de rencontre.
-
- * Certaines personnes ne savent pas ce que signifie la vie privée dans les rencontres en ligne où tant de données sensibles sont exposées.
-
- * Certaines personnes pensent que la collecte de données ne sert que les bonnes intentions.
+* Certaines personnes ne savent pas ce que signifie la vie privée dans les rencontres en ligne où tant de données sensibles sont exposées.
+* Certaines personnes pensent que la collecte de données ne sert que les bonnes intentions.
 
 Dans le même temps, chaque personne livre son intimité en ligne sans contrôle. Des utilisatrices et utilisateurs font l'objet de discriminations, sont exposés à des personnes indésirables et sont victimes d'abus de la part d'autres individus : harcèlement, usurpation d'identité, arnaques à la romance, voire agressions sexuelles, sans que l'application puisse les aider.
 
