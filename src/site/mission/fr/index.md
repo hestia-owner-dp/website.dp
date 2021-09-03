@@ -8,81 +8,53 @@ lead_image: /assets/media/32-mojtaba-mohammadi-yiotsd3flka-unsplash.jpg
 lead_image_caption: Photo de [Mojtaba Mohammadi](https://unsplash.com/@mojitaba)
   sur [Unsplash](https://unsplash.com/photos/yioTsD3fLkA)
 ---
-# Dating Privacy aims to raise awareness about privacy risks and build new practices in online dating for both users and platforms
+# Le collectif Dating Privacy vise à sensibiliser les utilisatrices et utilisateurs et les plateformes aux risques liés au respect de la vie privée et à instaurer de nouvelles pratiques dans le domaine des rencontres en ligne
 
-## The problem 
+## Le  problème 
 
+Vous donnez des données sensibles sans savoir quoi ni pourquoi. Le colelctif Dating privacy cherche à clarifier cette incertitude pour protéger votre vie privée. Nous voulons équilibrer les avantages et les inconvénients du partage de vos informations intimes afin que vous puissiez contrôler votre exposition en ligne ; et en même temps faire en sorte que les applications de rencontre soient mieux adaptées aux intérêts des utilisatrices et utilisateurs et ne servent pas uniquement à des entreprises commerciales.
 
-You give sensitive data away without knowing what or why. Dating privacy seeks to clarify that uncertainty to protect your privacy. We want to balance the benefits and disadvantages of sharing your intimate information so you can take control of your exposure online; and at the same time to make dating apps best tailored to user’s interests and not merely for commercial enterprises.
+Les données aident les applications à mettre les personnes en contact les unes avec les autres. Vous rencontrez une personne extérieure à votre réseau et présentant des caractéristiques différentes, dont vous ne saviez même pas qu'elle vous plaisait. Mais cela comporte aussi des risques pour la vie privée : des personnes inconnues voient beaucoup d'informations sur votre identité, vous n'êtes présenté.e qu'aux personnes que l'application considère comme appropriées pour vous, vous rencontrez des personnes sans aucune garantie quant à leur identité réelle, vos données sont utilisées pour des publicités qui ne correspondent pas nécessairement à vos goûts mais qui permettent à l'application de gagner de l'argent.
 
+Il n'y a pas assez de visibilié  et de connaissance sur  la vie privée et sur la protection des données sur les applications de rencontres.  Une définition générale de la vie privée ne s'applique pas à tous les types d'applications. De plus, lorsque vous faites des rencontres, vous souhaitez établir une relation de confiance avec votre partenaire potentiel.e et avec l'application qui vous présente d'autres personnes. Nous cherchons à sensibiliser les gens aux risques liés à la vie privée, ainsi qu'à développer les possibilités d'avoir de nouvelles valeurs éthiques, justes et collectives pour l'utilisation des technologies et de la vie privée.
 
-Data helps apps to put users in contact with each other. You meet somebody outside your network and with different characteristics who you didn’t even know you liked. But it also comes with privacy risks: unknown users see a lot of information about your identity, you are only introduced to people who the app considers right for you, you meet people without any guarantees about their real identity, your data is used for ads that are not necessarily relevant to your tastes but help the app earn money.
+Certaines personnes ne savent pas que leurs données sont collectées, ni à quelles fins. 
 
+Certaines personnes ne comprennent pas pourquoi elles n'arrivent pas trouver quelqu'un sur une application de rencontre.
 
-![](/assets/media/21-karsten-winegeart-60gsdomrfgc-unsplash.jpg)
+Certaines personnes ne savent pas ce que signifie la vie privée dans les rencontres en ligne, où tant de données sensibles sont exposées.
 
+Certaines personnes pensent que la collecte de données ne sert que les bonnes intentions.
 
-There is not enough visibility and situated knowledge about privacy and data protection on dating apps. A general definition of privacy does not apply to every app type. Plus, when you are dating you are interested in establishing trust with your potential date and also with the app introducing you to other people. We seek to raise awareness about privacy risks, as well as develop the potentialities of having new ethical, fair and collective values for the use of technologies and privacy.
+Dans le même temps, chaque personne livre son intimité au public sans contrôle. Des utilisatrices et utilisateurs font l'objet de discriminations, sont exposés à des personnes indésirables et sont victimes d'abus de la part d'autres individus : harcèlement, usurpation d'identité, arnaques à la romance, voire agressions sexuelles, sans que l'application puisse les aider.
 
+## Notre plan 
 
-Some users do not know their data is being collected, or for which purposes. 
+Dating Privacy vise d'abord à comprendre le fonctionnement des applications de rencontre, en particulier en ce qui concerne la collecte et le traitement des données et les conséquences pour la vie privée des utilisatrices et utilisateurs et les interactions (qui est présenté à qui). Ensuite, leur offrir  un outil leur permettant de visualiser et de comprendre l'écosystème des données des applications de rencontres et leur utilisation personnelle contribuant ainsi à la littératie des données. 
 
+Les applications de rencontres ont développé des systèmes de mise en relation qui sont opaques en raison de la propriété intellectuelle. Cette opacité affecte la vie privée et, en définitive, la manière dont les sujets trouvent un partenaire potentiel en ligne. Par conséquent, les utilisateurs n'ont aujourd'hui aucune visibilité sur les données personnelles collectées à partir de leurs comptes, ni sur la manière dont elles sont utilisées pour leur présenter des profils, ou à des fins commerciales comme la publicité.
 
-Some users do not understand why they cannot find somebody on a dating app.
+Des études et des articles de presse récents ont donné des résultats contradictoires concernant l'influence des algorithmes des applications de rencontres sur les couples. Les applications de rencontres sont conçues comme des systèmes de recommandation, appliquant des techniques d'apprentissage automatique qui notent et classent les personnes en ligne pour les présenter aux autres. Cela peut avoir des effets positifs ou négatifs sur la formation des couples. D'un côté, des études affirment que les couples qui se sont rencontrés par le biais d'applications de rencontres ont un statut socio-économique différent, ce qui accroît la diversité. D'autre part, les applications de rencontres reproduisent un modèle patriarcal en présentant des femmes ayant un statut socio-économique inférieur à des hommes ayant une meilleure position.
 
+Outre la collecte de données pour les systèmes de mise en relation, une  [investigation](https://fil.forbrukerradet.no/wp-content/uploads/2020/01/mnemonic-security-test-report-v1.0.pdf) conduite par le Conseil norvégien des consommateurs montre que les applications de rencontre collectent également des données qui sont partagées avec des tiers parties à des fins commerciales.
 
-Some users do not know what privacy means in online dating, where so much sensitive data is exposed.
+Un autre problème est que la majorité des analyses des applications de rencontres se concentrent sur la compréhension des pratiques hétérosexuelles tout en ignorant les autres communautés aux identités différentes. Elles ne savent pas comment l'écosystème de données des applications de rencontres et l'utilisation d'algorithmes affectent les résultats qu'une personne peut obtenir dans l'application.
 
-
-Some users believe data collection only serves good intentions.
-
-
-At the same time, every user is giving away intimacy for public exposure without control. Some users are being discriminated against, exposed to undesirable persons, and are victims of abuse by other users: harassment, identity theft, romance scams, and even sexual assault, without the app being able to help you. 
-
-
-## Our plan 
-
-
-Dating Privacy aims to first understand how dating app function, in particular regarding data collection and data processing, and what the consequences are for user privacy and interactions (who is presented to whom). Secondly, to offer users a tool to visualize and understand the dating app data ecosystem and their personal usage; thus contributing to data literacy. 
-
-
-Dating apps have developed matching systems that are opaque because of intellectual property. This opacity affects privacy, and ultimately, how subjects find a potential partner online. Therefore, users do not have visibility today on what personal data is collected from their accounts, nor how it is used to present them profiles, or for commercial purposes like advertisement.
-
-
-Recent studies and media articles have given contradictory results about the influence of dating app algorithms on couples. Dating apps are designed as recommendation systems, applying machine learning techniques that score and rank users online to be presented to others. This can have either positive or negative effects on couple formation. On one side, studies affirm that couples who met through dating apps have different socioeconomic status which increases diversity. On the other, dating apps reproduce a patriarchal model by presenting women with a lower socioeconomic status to men who have a better position.
-
-
-Besides collecting data for matching systems, one [investigation](https://fil.forbrukerradet.no/wp-content/uploads/2020/01/mnemonic-security-test-report-v1.0.pdf) conducted by the Norwegian Consumer Council shows dating apps also collect data that is shared with third parties for commercial profit; i.e. for dating app partners, connected social networks and external investors.
-
-
-Another problem is that the majority of dating app analysis focuses on understanding heterosexual practices, while ignoring other communities with different identities. They do not know how the dating app data ecosystem and the use of algorithms affect the results a user can obtain in the app.
-
-
-> *What type of data do dating apps collect and how is it shared beyond the platform?*
+> *Quel type de données les applications de rencontre collectent-elles et comment sont-elles partagées au-delà de la plateforme ?*
 >
-> *How do dating apps rank and sort users with algorithms?* 
+> *Comment les applications de rencontre classent et trient les utilisateurs à l'aide d'algorithmes ?* 
 
+Ce sont les questions auxquelles nous cherchons à répondre en deux temps :
 
-These are the questions we seek to answer, in two phases:
+* Premièrement: en s'adressant aux personnes qui veulent protéger leur vie privée et qui sont affectées par le fonctionnement des applications et en leur offrant un espace où elles sont entendues. Dans un monde où les applications de rencontres n'assument pas la responsabilité des préoccupations et des problèmes des utilisatrices et utlisatrices, c'est important.
+* Deuxièmement: en développant des outils pour récupérer, visualiser et analyser les données personnelles. Cela permettra de briser le monopole des plateformes de rencontres sur les données sensibles et d'apprendre à connaître la vie privée et les processus liés à la collecte, au traitement et à l'analyse des données.
 
+Plus encore, nous souhaitons contribuer à des initiatives éducatives et mener des recherches en collaboration avec des écoles, des universités et d'autres établissements d'enseignement.
 
-* First, by reaching users who want to protect their privacy and are affected by how app's work, offering them a space where they are heard. In a world where dating apps do not take responsibility for users’ concerns and problems this matters
+## Comment contribuer et aider le collectif Dating Privacy?
 
-* Second, by developing tools to recover, visualize and analyze personal data. This will help to break the monopoly of dating platforms on sensitive data and to learn about privacy and processes related to data collection, processing and analysis.
-
-
-Further on we are interested in contributing to education initiatives and conducting research in collaboration with schools, academia and other educational institutions.
-
-
-## What can you do to help Dating Privacy? 
-
-
-1. [Start requesting your data](https://dating-privacy.hestialabs.org/en/act/sar/) to understand what traces about yourself and your dating preferences you leave online.
-
-2. Participate in our activities and online discussions. Learn with us about privacy, how dating apps work and user practices.
-
-3. Become a member of Dating Privacy for a more active role in our initiatives and to help develop and implement your ideas.
-
-4. Conduct investigations with us. By being part of our network you gain an edge in the state of the art, you build action research with us and share knowledge in keeping with our open-source ethos.
-
-5. Become an official partner. It gives you access to our practices and preoccupations in online dating. You can help create a different standard of privacy.
+1. [Comment à demander vos données](https://dating-privacy.hestialabs.org/fr/act/sar/) pour comprendre les traces que vous laissez en ligne sur vous-même et vos préférences en matière de rencontres.Participer à nos activités et à nos discussions en ligne. Apprenez avec nous à connaître la vie privée, le fonctionnement des applications de rencontres et les pratiques des autres utilisatrices et utilisateurs.
+2. Participer à nos activités et à nos discussions en ligne. Apprenez avec nous à connaître la vie privée, le fonctionnement des applications de rencontres et les pratiques des autres personnes.
+3. Devenez membre du collectif de Dating Privacy pour jouer un rôle plus actif dans nos initiatives et pour aider à développer et à mettre en œuvre vos idées.
+4. Menez des enquêtes avec nous. En faisant partie de notre réseau, vous bénéficiez d'un avantage sur l'état de l'art, vous construisez avec nous une recherche-action et vous partagez vos connaissances conformément à notre éthique de source ouverte.
+5. Devenez un partenaire officiel. Cela vous donne accès à nos pratiques et préoccupations en matière de rencontres en ligne. Vous pouvez contribuer à créer une norme différente en matière de vie privée.
