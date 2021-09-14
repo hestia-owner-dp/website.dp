@@ -27,11 +27,11 @@
 # NOTE: comment following redirect, when french translations will
 # be ready, and remove this comment — while keeping the previous
 # one, which comes from the WEBSITE.TEMPLATE
-[[redirects]]
-  from = "/fr/*"
-  to = "/en/:splat"
-  status = 302
-  force = true
+# [[redirects]]
+#   from = "/fr/*"
+#   to = "/en/:splat"
+#   status = 302
+#   force = true
 
 # Overrule the language switching redirect rules coming
 # hereafter, to keep access to /admin/
