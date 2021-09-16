@@ -42,12 +42,12 @@
 
 ## Automatic language switching: redirect / ⟶ /fr/, if browser
 ## accepted languages contains `fr`
-[[redirects]]
- from = "/"
- to = "/fr/"
- status = 302
- conditions = {Language = ["fr"]}
- force = true  
+# [[redirects]]
+#  from = "/"
+# to = "/fr/"
+# status = 302
+# conditions = {Language = ["fr"]}
+# force = true  
 
 # Default language, when no language switching redirects applied
 [[redirects]]
