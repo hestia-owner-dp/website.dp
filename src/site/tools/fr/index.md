@@ -2,13 +2,15 @@
 layout: tools
 inverse: true
 permalink: /fr/tools/index.html
-title: Vos données Tinder
-lead: Analyse de vos données Tinder
+title: Outils
+lead: Analyse de vos données
 lead_image: /assets/media/14-winkler-ttj0cljli6w-unsplash.jpg
 lead_image_caption: Photo de [Markus
   Winkler](https://unsplash.com/@markuswinkler) sur
   [Unsplash](https://unsplash.com/photos/TtJ0CLjLi6w)
 ---
+
+# Tinder
 
 Grâce à l'équipe de scientifiques d'hestialabs, nous sommes maintenant en
 mesure d'analyser nos données Tinder.

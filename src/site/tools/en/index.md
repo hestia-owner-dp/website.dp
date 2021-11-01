@@ -2,13 +2,16 @@
 layout: tools
 inverse: true
 permalink: /en/tools/index.html
-title: Your Tinder data
-lead: "**Analysis of your Tinder data**"
+title: Tools
+lead: "**Analysis of your data**"
 lead_image: /assets/media/14-winkler-ttj0cljli6w-unsplash.jpg
 lead_image_caption: Photo by [Markus
   Winkler](https://unsplash.com/@markuswinkler) on
   [Unsplash](https://unsplash.com/photos/TtJ0CLjLi6w)
 ---
+
+# Tinder
+
 Thanks to hestialabs's team of developers, we're now able to analysis our
 Tinder data.
 

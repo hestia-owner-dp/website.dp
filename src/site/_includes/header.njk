@@ -10,6 +10,7 @@
     </div>
     <div class="header-cell-two-thirds">
       <nav class="header-navigation">
+        {% ilink page, "tools", locale %}{{i18n.header_footer[locale].tools}}{% endilink %}
         {% ilink page, "blog", locale %}{{i18n.header_footer[locale].blog}}{% endilink %}
         {% ilink page, "mission", locale %}{{i18n.header_footer[locale].mission}}{% endilink %}
         {% ilink page, "community", locale %}{{i18n.header_footer[locale].community}}{% endilink %}
