@@ -37,28 +37,10 @@ paragraphs:
     link_text: Contact us
     url: partners/
   - title: Analysis of your Tinder data
-    description: >-
-      Thanks to hestialabs's team of developers, we're now able to analysis our
-      Tinder data.
-
-
-      <https://experiences.hestialabs.org/tinder>
-
-
-      If you don't have  the private data that Tinder collected on you yet,  go to <https://account.gotinder.com/data> . Once you receive it, you'll be able to analyze and see:
-
-
-      * the number of likes and dislikes that you made over time.
-
-      * the number of times that you opened the app (per day or per month).
-
-
-      and compare the number of likes, passes, messages sent and messages received and different pairs of values in a donut chart.
-
-
-      At the end, you can the possible correlation between the number of likes/passes and the number of times you open the app.
+    description: Thanks to hestialabs's team of developers, we're now able to
+      analysis our Tinder data.
     link_text: Learn more
-    url: null
+    url: https://dating-privacy.hestialabs.org/en/tools/
 layout: home
 permalink: /en/index.html
 title: Dating privacy
