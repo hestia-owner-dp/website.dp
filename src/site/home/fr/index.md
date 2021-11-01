@@ -31,7 +31,7 @@ paragraphs:
 
 
       Notre objectif ultime est de réunir des utilisatrices et d'utilisateurs et des personnes passionnées par la protection de la vie privée pour faire pression en faveur d'un changement de paradigme.
-    link_text: Learn more
+    link_text: En savoir plus
     url: mission/
   - title: Nous sommes en contact avec de nombreux partenaires
     description: >-

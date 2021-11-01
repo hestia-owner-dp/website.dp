@@ -57,6 +57,8 @@ paragraphs:
 
 
       At the end, you can the possible correlation between the number of likes/passes and the number of times you open the app.
+    link_text: Learn more
+    url: null
 layout: home
 permalink: /en/index.html
 title: Dating privacy
