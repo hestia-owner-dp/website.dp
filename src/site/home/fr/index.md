@@ -8,7 +8,7 @@ paragraphs:
       nous, chacun de nous s'engage à être digne de confiance, pour que le
       collectif soit digne de confiance, et à utiliser des outils sécurisés.
     link_text: Notre charte éthique
-    url: ethics/
+    url: https://dating-privacy.hestialabs.org/fr/ethics/
   - title: Nous sommes un collectif d'utilisateurs et d'utilisatrices
     description: "Dating Privacy, c'est vous, c'est nous et c'est moi : des
       utilisatrices et des utilisateurs d'applications de rencontres et des
@@ -19,7 +19,7 @@ paragraphs:
       comprendre les problèmes de confidentialité qu'elles créent et de
       travailler à l'amélioration de la connaissance des données."
     link_text: Rejoignez-nous
-    url: community/
+    url: https://dating-privacy.hestialabs.org/fr/community/
   - title: Nous travaillons à comprendre ce qui est fait
     description: >-
       Nous voulons comprendre les nombreux risques liés au respect de la vie
@@ -32,7 +32,7 @@ paragraphs:
 
       Notre objectif ultime est de réunir des utilisatrices et d'utilisateurs et des personnes passionnées par la protection de la vie privée pour faire pression en faveur d'un changement de paradigme.
     link_text: En savoir plus
-    url: mission/
+    url: https://dating-privacy.hestialabs.org/fr/mission/
   - title: Nous sommes en contact avec de nombreux partenaires
     description: >-
       Nous cherchons à collaborer avec des journalistes, des universitaires, des
@@ -42,8 +42,8 @@ paragraphs:
 
       Nous défendons des idées de meilleures pratiques pour les utilisatrices et les utilisatrices et pour les entreprises dans le contrôle des données personnelles et pour surfer en toute sécurité en ligne. Nous sommes particulièrement intéressé.es par l'éducation, ainsi que par la construction de protocoles méthodologiques et d'outils de protection de la vie privée et pour la littératie des données.
     link_text: Contactez-nous
-    url: partners/
-  - title: Analyse de vos données Tinder
+    url: https://dating-privacy.hestialabs.org/fr/partners/
+  - title: Analyse de nos données Tinder
     description: >+
       Grâce à l'équipe d'hestialabs, nous sommes maintenant en mesure d'analyser
       nos données Tinder.
