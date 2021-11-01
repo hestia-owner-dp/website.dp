@@ -3,7 +3,7 @@ layout: tools
 inverse: true
 permalink: /fr/tools/index.html
 title: Outils
-lead: Analyse de vos données
+lead: "**Analyse de vos données**"
 lead_image: /assets/media/14-winkler-ttj0cljli6w-unsplash.jpg
 lead_image_caption: Photo de [Markus
   Winkler](https://unsplash.com/@markuswinkler) sur
