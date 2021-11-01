@@ -43,6 +43,29 @@ paragraphs:
       Nous défendons des idées de meilleures pratiques pour les utilisatrices et les utilisatrices et pour les entreprises dans le contrôle des données personnelles et pour surfer en toute sécurité en ligne. Nous sommes particulièrement intéressé.es par l'éducation, ainsi que par la construction de protocoles méthodologiques et d'outils de protection de la vie privée et pour la littératie des données.
     link_text: Contactez-nous
     url: partners/
+  - title: Analyse de vos données Tinder
+    description: >+
+      Grâce à l'équipe de scientifiques d'hestialabs, nous sommes maintenant en
+      mesure d'analyser nos données Tinder.
+
+
+      <https://experiences.hestialabs.org/tinder>
+
+
+      Si vous n'avez pas encore les données privées que Tinder a recueillies sur vous, rendez-vous sur <https://account.gotinder.com/data> . Une fois que vous les aurez reçues, vous serez en mesure d'analyser et de voir :
+
+
+      * le nombre de likes et dislikes que vous avez fait au fil du temps.
+
+      * le nombre de fois où vous avez ouvert l'application (par jour ou par mois).
+
+
+      et comparer le nombre de likes, de dislikes, de messages envoyés et de messages reçus et différentes paires de valeurs dans un graphique.
+
+
+      A la fin, vous pouvez voir la corrélation possible entre le nombre de likes/dislikes et le nombre de fois où vous avez ouvert l'application.
+
+
 layout: home
 permalink: /fr/index.html
 title: Dating privacy
