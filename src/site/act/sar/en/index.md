@@ -1,5 +1,5 @@
 ---
-organization_type: Q523
+organization_type: Q5066
 mailto_template_name: MailtoAccess
 layout: sar
 permalink: /en/act/sar/index.html
