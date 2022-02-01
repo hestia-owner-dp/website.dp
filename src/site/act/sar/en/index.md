@@ -1,5 +1,5 @@
 ---
-organization_type: ""
+organization_type: Q5066
 mailto_template_name: MailtoAccess
 layout: sar
 permalink: /en/act/sar/index.html
@@ -10,7 +10,7 @@ lead: |-
 lead_image_caption: Photo by [Jong Marshes](https://unsplash.com/@turnlip19)
   on [Unsplash](https://unsplash.com/photos/79mNMAvSORg)
 sar_sub_title: You can ask here for a copy of your personal data
-collective: Q5393
+collective: ""
 inverse: true
 title: Claim your data back
 lead_image: /assets/media/31-jong-marshes-79mnmavsorg-unsplash.jpg
