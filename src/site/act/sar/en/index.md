@@ -1,19 +1,20 @@
 ---
-organization_type: Q5066
+organization_type: ""
 mailto_template_name: MailtoAccess
 layout: sar
 permalink: /en/act/sar/index.html
-inverse: true
-title: Claim your data back
 lead: |-
   Make it happen —\
   **Claim your data back!**\
   Now  ⤵️
-lead_image: /assets/media/31-jong-marshes-79mnmavsorg-unsplash.jpg
 lead_image_caption: Photo by [Jong Marshes](https://unsplash.com/@turnlip19)
   on [Unsplash](https://unsplash.com/photos/79mNMAvSORg)
-sar_title: Ask for your data
 sar_sub_title: You can ask here for a copy of your personal data
+collective: Q5393
+inverse: true
+title: Claim your data back
+lead_image: /assets/media/31-jong-marshes-79mnmavsorg-unsplash.jpg
+sar_title: Ask for your data
 ---
 # These are your rights
 
