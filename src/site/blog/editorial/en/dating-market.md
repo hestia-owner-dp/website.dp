@@ -8,10 +8,10 @@ post_categories:
 post_authors:
   - jp
 ---
-On February 10, 2022, Jessica Pidoux was invited by UX Research Guild Zurich to speak about the the dating market.
+On February 10, 2022, Jessica Pidoux was invited by UX Research Guild Zurich to speak about the dating market.
 
 <https://www.meetup.com/uxrgzh/events/283569464/>
 
-<video width="640" height="480" controls>
+<video width="6400" height="4800" controls>
   <source src="/assets/media/meetup_february2022_jessica-pidoux.mp4" type="video/mp4">
 </video>
