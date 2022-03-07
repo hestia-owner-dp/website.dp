@@ -11,6 +11,6 @@ Le 20 février 2022, Jessica Pidoux a été invité par UX Research Guild de Zur
 
 <https://www.meetup.com/uxrgzh/events/283569464/>
 
-<video width="6400" height="4800" controls>
+<video width="640" height="480" controls>
   <source src="/assets/media/meetup_february2022_jessica-pidoux.mp4" type="video/mp4">
 </video>
