@@ -7,7 +7,7 @@ lead: |-
 
   Link to the presentation:
 
-  [https://yewtu.be/watch?v=NXV6ptrtLKQ](https://yewtu.be/embed/NXV6ptrtLKQ)
+  <https://yewtu.be/embed/NXV6ptrtLKQ>
 post_categories:
   - jessica-pidoux
 post_authors:
