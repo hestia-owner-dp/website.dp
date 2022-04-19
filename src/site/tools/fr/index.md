@@ -3,15 +3,25 @@ layout: tools
 inverse: true
 permalink: /fr/tools/index.html
 title: Outils
-lead: "**Analyse de nos données**"
+lead: "**Analyse de nos données et des changements des documents légaux**"
 lead_image: /assets/media/14-winkler-ttj0cljli6w-unsplash.jpg
 lead_image_caption: Photo de [Markus
   Winkler](https://unsplash.com/@markuswinkler) sur
   [Unsplash](https://unsplash.com/photos/TtJ0CLjLi6w)
 ---
+# Monitoring des changements dans les documents légaux des applications de rencontres
+
+Grâce à la collaboration avec[ OpenTermsArchive](https://opentermsarchive.org/fr) , il est maintenant possible de suivre les changements dans les politiques de confidentialité, les conditions d'utilisation, les politiques de cookies et les conditions générales de plusieurs application de rencontres.
+La liste est mise à jour régulièrement:
+<https://github.com/OpenTermsArchive/dating-declarations/tree/main/declarations>
+
+Pour suivre les changements de toutes les applications , via flux RSS: <https://github.com/OpenTermsArchive/dating-versions/commits/main.atom>
+
+Les changements les plus significatifs seront mis en ligne via notre compte [Twitter](https://twitter.com/datingprivacy) @datingprivacy
+
 # Tinder
 
-Grâce à l'équipe de scientifiques d'hestialabs, nous sommes maintenant en
+Grâce à l'équipe de développeurs d'hestialabs, nous sommes maintenant en
 mesure d'analyser nos données Tinder.
 
 <https://experiences.hestialabs.org/tinder>
