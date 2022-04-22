@@ -7,7 +7,7 @@ lead: >-
   Comparative Analysis of Online Dating Practices
 
 
-  https://dhcenter-unil-epfl.ch/en/event/jessica-pidoux-est-linvitee-du-prochain-seminaire-methodologie-de-sciencespo/
+  <https://dhcenter-unil-epfl.ch/en/event/jessica-pidoux-est-linvitee-du-prochain-seminaire-methodologie-de-sciencespo/>
 post_categories:
   - jessica-pidoux
 post_authors:
