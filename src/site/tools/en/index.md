@@ -13,7 +13,6 @@ lead_image_caption: Photo by [Markus
 
 Thanks to the collaboration with [OpenTermsArchive](https://opentermsarchive.org/en) , it is now possible to monitor changes in privacy policies, terms of use, cookie policies and terms and conditions of several dating applications:Tinder, HER, Fruitz, Grindr, OKCupid, ...
 
-
 The list will be updated regularly:
 <https://github.com/OpenTermsArchive/dating-declarations/tree/main/declarations>
 
@@ -21,7 +20,7 @@ To follow the changes to all applications, via RSS feed: <https://github.com/Ope
 
 If you want to follow changes in one application i.e Tinder <https://github.com/OpenTermsArchive/dating-versions/commits/main/Tinder.atom>
 
-The most significant changes will be posted via our [Twitter ](https://twitter.com/datingprivacy)account @datingprivacy
+The most significant changes will be posted via our Twitter account [@datingprivacy](https://twitter.com/datingprivacy)
 
 # Tinder
 
