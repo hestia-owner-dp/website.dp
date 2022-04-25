@@ -2,6 +2,7 @@
 id: Dating Market
 title: "The Dating Market: Programming User Attention and Interaction"
 date: 2022-03-07T16:22:33.274Z
+image: /assets/media/1pixel.png
 lead: ""
 post_categories:
   - jessica-pidoux
