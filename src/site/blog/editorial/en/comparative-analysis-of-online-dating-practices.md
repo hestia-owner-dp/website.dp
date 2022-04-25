@@ -10,7 +10,7 @@ lead: >-
   <https://dhcenter-unil-epfl.ch/en/event/jessica-pidoux-est-linvitee-du-prochain-seminaire-methodologie-de-sciencespo/>
 
 
-  <video width="640" height="480" controls>
+  <video width="100%" controls>
     <source src="/assets/media/Comparative_Analysis_of_Online_Dating_Practices.mp4" type="video/mp4">
   </video>
 post_categories:
