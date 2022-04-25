@@ -1,5 +1,6 @@
 ---
 id: Comparative Analysis of Online Dating Practices
+title: Comparative Analysis of Online Dating Practices
 date: 2022-03-16T17:04:37.785Z
 lead: ""
 post_categories:
