@@ -11,6 +11,6 @@ suggested:
   - type: interview
     post: jessica-pidoux-dating-apps-are-not-magic-just-maths-code-and-data
 ---
-Listen the podcast hosted by researcher and strategist Tina Ličková  about the *The art of seducing dating app algorithms* with Laurie Dutheil & Jessica Pidoux.
+Listen the podcast hosted by researcher and strategist Tina Ličková  about the *The art of seducing dating app algorithms* with Laurie Dutheil & Jessica Pidoux. 
 
 <https://www.uxtweak.com/podcast/>
