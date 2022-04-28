@@ -1,4 +1,5 @@
 ---
+title: Quel modèle pérenne pour les collectifs de données ?
 date: 2022-04-20T13:28:27.860Z
 image: /assets/media/1pixel.png
 post_categories:
