@@ -1,8 +1,10 @@
 ---
 id: The art of seducing dating app algorithms
+title: The art of seducing dating app algorithms
 date: 2022-04-27T14:35:04.369Z
 image: /assets/media/laurie_jessica.png
-lead: ""
+lead: Podcast with Jessica Pidoux and Laurie Dutheil, founder of  A Glorious Day
+  For Love and coach in dating apps
 post_categories:
   - jessica-pidoux
 post_authors:

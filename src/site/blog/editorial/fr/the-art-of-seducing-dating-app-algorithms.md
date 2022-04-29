@@ -1,5 +1,8 @@
 ---
-date: 2022-04-28T19:34:53.884Z
+title: L'art de séduire via les algorithmes des applications de rencontre
+date: 2022-04-27T14:34:00.000Z
+lead: Podcast avec Jessica Pidoux et Laurie Dutheil, fondatrice de A Glorious
+  Day For Love et coach sur les applications de rencontre.
 post_categories:
   - jessica-pidoux
 post_authors:
