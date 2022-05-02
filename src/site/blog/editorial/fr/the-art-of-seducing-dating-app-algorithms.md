@@ -8,6 +8,5 @@ post_categories:
 post_authors:
   - mpv
 ---
-Écoutez le podcast animé par la chercheuse et stratège Tina Ličková sur *L'art de séduire via les algorithmes des applications de rencontre* avec Laurie Dutheil et Jessica Pidoux.
-
+Écoutez le podcast UX research geeks animé par la chercheuse et stratège Tina Ličková sur *L'art de séduire via les algorithmes des applications de rencontre* avec Laurie Dutheil et Jessica Pidoux
 <https://www.uxtweak.com/podcast/>
