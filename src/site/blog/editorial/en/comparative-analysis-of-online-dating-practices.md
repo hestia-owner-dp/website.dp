@@ -3,6 +3,9 @@ id: Comparative Analysis of Online Dating Practices
 title: Methods for a comparative Analysis of Online Dating Practices
 date: 2022-03-16T17:04:37.785Z
 image: /assets/media/methodology-post.png
+image_caption: This work is licensed under a [Creative Commons
+  Attribution-NonCommercial-ShareAlike 4.0 International
+  License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 lead: ""
 post_categories:
   - jessica-pidoux
