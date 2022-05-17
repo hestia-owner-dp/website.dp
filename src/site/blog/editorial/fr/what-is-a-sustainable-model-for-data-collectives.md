@@ -1,7 +1,11 @@
 ---
 title: Quel modèle pérenne pour les collectifs de données ?
 date: 2022-04-20T13:28:27.860Z
-image: /assets/media/1pixel.png
+image: /assets/media/infrastructure.jpg
+image_caption: Photo by [Erik van
+  Dijk](https://unsplash.com/@erikvandijk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on
+  [Unsplash](https://unsplash.com/s/photos/infrastructure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 post_categories:
   - jessica-pidoux
 post_authors:
