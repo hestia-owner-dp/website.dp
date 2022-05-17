@@ -1,10 +1,12 @@
 ---
-title: Analyse comparative des pratiques de rencontre en ligne
+title: Méthodes pour l'analyse comparative des pratiques de rencontre en ligne
 date: 2022-04-22T16:04:37.840Z
+image: /assets/media/methodology-post.png
 post_categories:
   - jessica-pidoux
 post_authors:
   - jp
+show_social_sharing: true
 ---
 En mars 2022, Jessica Pidoux a été invitée à parler des méthodes qualitatives et quantitatives pour situer les processus de communication homme-machine. Le titre de sa présentation : *Qualitative and Quantitative Methods for Situating Human-Machine Communication Processes: A Comparative Analysis of Online Dating Practices*
 
