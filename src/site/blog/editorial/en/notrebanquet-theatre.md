@@ -1,6 +1,6 @@
 ---
 id: notrebanquet-theatre
-title: Notre banquet
+title: Our banquet
 date: 2022-05-02T09:27:58.925Z
 image: /assets/media/arianetheatre.jpg
 lead: "# A theatrical performance on how data shapes love and everyday life in

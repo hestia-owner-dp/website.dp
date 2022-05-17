@@ -1,4 +1,5 @@
 ---
+title: Notre banquet
 date: 2022-05-02T09:27:58.977Z
 lead: "# Une représentation théâtrale sur comment les données façonnent l'amour
   et la vie quotidienne dans la société par Ariane Loze"
