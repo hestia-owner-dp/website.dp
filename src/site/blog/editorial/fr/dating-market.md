@@ -2,6 +2,11 @@
 title: "Le marché des rencontres : programmer l'attention et l'interaction des
   personnes utilisatrices des applications"
 date: 2022-03-07T16:22:33.326Z
+image: /assets/media/lenses-user-attention.jpg
+image_caption: Photo by [Andrik
+  Langfield](https://unsplash.com/@andriklangfield?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on
+  [Unsplash](https://unsplash.com/s/photos/lenses?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 post_categories:
   - jessica-pidoux
 post_authors:
