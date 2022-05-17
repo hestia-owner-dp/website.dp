@@ -2,6 +2,10 @@
 title: Méthodes pour l'analyse comparative des pratiques de rencontre en ligne
 date: 2022-04-22T16:04:37.840Z
 image: /assets/media/methodology-post.png
+image_caption: Ce(tte) œuvre est mise à disposition selon les termes de
+  la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale -
+  Partage dans les Mêmes Conditions 4.0
+  International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 post_categories:
   - jessica-pidoux
 post_authors:
