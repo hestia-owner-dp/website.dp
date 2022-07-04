@@ -44,7 +44,7 @@ paragraphs:
 layout: home
 permalink: /en/index.html
 title: Dating privacy
-lead: The community of **dating privacy**
+lead: The community of **dating privacyy**
 lead_image: /assets/media/104-abstract-bokeh-hearts-real-light-picjumbo-com.jpg
 lead_image_caption: Photo by [Viktor
   Hanacek](https://picjumbo.com/author/viktorhanacek/) on
