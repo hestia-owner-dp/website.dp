@@ -59,7 +59,7 @@ lead_image_caption: Photo de [Viktor
   Hanacek](https://picjumbo.com/author/viktorhanacek/) sur
   [picjumbo](https://picjumbo.com/abstract-bokeh-hearts-real-light/)
 paragraphs_title: Nous définissons une nouvelle relation aux données de rencontres
-news_title: Nouvelles et évènements
+news_title: "Nouvelles et évènements:"
 news:
   - type: editorial
     post: data-on-grindr-profile
